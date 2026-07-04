@@ -1,0 +1,7 @@
+interface:
+  display_name: "中文写作风格蒸馏+去 AI 味"
+  short_description: "中文写作风格蒸馏+去 AI 味"
+  default_prompt: "Use $distill-humanized to distill my Chinese writing style from docs and reduce AI-like phrasing."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "中文写作风格蒸馏"
+  short_description: "中文写作风格蒸馏"
+  default_prompt: "Use $distill to distill my Chinese writing style from docs into AGENTS.md."
+
+policy:
+  allow_implicit_invocation: true

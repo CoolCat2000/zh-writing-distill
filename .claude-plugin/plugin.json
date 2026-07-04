@@ -1,0 +1,21 @@
+{
+  "name": "zh-writing-distill",
+  "description": "中文写作风格蒸馏+去 AI 味 Agent Skills",
+  "version": "1.0.0",
+  "author": {
+    "name": "CoolCat2000"
+  },
+  "homepage": "https://github.com/CoolCat2000/zh-writing-distill",
+  "repository": "https://github.com/CoolCat2000/zh-writing-distill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "plugin",
+    "skills",
+    "agentic",
+    "writing",
+    "chinese",
+    "humanize"
+  ]
+}
